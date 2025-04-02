@@ -1,7 +1,7 @@
 # Conway's Game of Life
 
 ## Preview
-![game-of-life](https://github.com/user-attachments/assets/4c04f3ed-f618-4031-a4dc-4439a1c45ee8)
+<img src=https://github.com/user-attachments/assets/4c04f3ed-f618-4031-a4dc-4439a1c45ee8 width="500">
 
 ## How to Run
 
